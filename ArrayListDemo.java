@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class ArrayListDemo {
     public static void main(String[] args){
-        System.out.println("this is ArrayList Tutorial");
+        System.out.println("this is ArrayList  Tutorial");
         ArrayList<String> ar1 = new ArrayList<>();
         ar1.add("akj");
         ar1.add("sde");
