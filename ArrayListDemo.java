@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class ArrayListDemo {
     public static void main(String[] args){
@@ -16,5 +17,9 @@ public class ArrayListDemo {
         System.out.println("------------");
         System.out.println(ar1);
 
+        ArrayList<String> ar5 = new ArrayList<String>(Arrays.asList("hey", "hello", "sir"));
+        System.out.println(ar5);
+        int i = ar5.lastIndexOf("si");
+        System.out.println(i);
     }
 }
