@@ -6,6 +6,7 @@ public class Recording {
     public Recording(String NameRec){
         name = NameRec;
     }
+
     private void SetAge(int AgeRec){
         age = AgeRec;
     }
