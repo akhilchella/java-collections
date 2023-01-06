@@ -3,6 +3,7 @@ package com.java.lambda;
 public class Recording {
     public String name;
     private int age;
+
     public Recording(String NameRec){
         name = NameRec;
     }
