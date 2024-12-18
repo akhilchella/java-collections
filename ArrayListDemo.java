@@ -8,7 +8,7 @@ public class ArrayListDemo {
         ar1.add("akj");
         ar1.add("sde");
         ar1.add("che");
-
+#line commented
         ArrayList<String> ar2 = new ArrayList<>();
         ar2.add("bpu");
         ar2.add("csalkc");
